@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/AstefanidisUOI/Pparnassica-Oparnassica-SDM-GLM)
+
 # Pparnassica-Oparnassica-SDM-GLM
 
 [![DOI](https://zenodo.org/badge/852216417.svg)](https://zenodo.org/doi/10.5281/zenodo.13684517)
