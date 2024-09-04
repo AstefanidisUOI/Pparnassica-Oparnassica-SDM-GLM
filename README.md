@@ -26,7 +26,7 @@ Welcome to the repository for our study on the globally threatened and endemic m
 - The codes for Species Distribution Modelling are provided by Konstantinos Kougioumoutzis
 - The codes for Generalized Linear Models are provided by Apostolis Stefanidis and Konstantina Zografou
 
-#### Species Distribution modelling
+#### Species Distribution Models
 
 ##### 1) Distribution Range and Thinning
 
