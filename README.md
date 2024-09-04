@@ -1,8 +1,11 @@
+<!-- badges: start -->
 ![GitHub](https://img.shields.io/github/license/AstefanidisUOI/Pparnassica-Oparnassica-SDM-GLM)
+[![DOI](https://zenodo.org/badge/852216417.svg)](https://zenodo.org/doi/10.5281/zenodo.13684517)
+![GitHub repo size](https://img.shields.io/github/repo-size/AstefanidisUOI/Pparnassica-Oparnassica-SDM-GLM)
+<!-- badges: end -->
+
 
 # Pparnassica-Oparnassica-SDM-GLM
-
-[![DOI](https://zenodo.org/badge/852216417.svg)](https://zenodo.org/doi/10.5281/zenodo.13684517)
 
 *Parnassiana parnassica* and *Oropodisma parnassica*: SDM and GLM R codes 
 
