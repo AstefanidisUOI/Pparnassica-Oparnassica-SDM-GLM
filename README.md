@@ -1,5 +1,7 @@
 # Pparnassica-Oparnassica-SDM-GLM
 
+[![DOI](https://zenodo.org/badge/852216417.svg)](https://zenodo.org/doi/10.5281/zenodo.13684517)
+
 *Parnassiana parnassica* and *Oropodisma parnassica*: SDM and GLM R codes 
 
 [Stefanidis, Apostolis ![ORCID logo](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0000-7481-6449)[^aut][^BAT]  
